@@ -21,7 +21,7 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 ### Technical Implementation & Methodology
 * **Stochastic Modelling Pipeline:** Engineered a scalable 200,000-path Monte Carlo simulation engine in Python modelling portfolio increments across Geometric Brownian Motion (GBM), Heston Stochastic Volatility, and Merton Jump-Diffusion frameworks.
 * **Algorithmic Stability:** Implemented a **Full Truncation Scheme** to resolve numerical instability and prevent invalid negative variances when Feller conditions are violated in high-volatility regimes.
-* **Parameter Calibration:** Applied **Brent’s root-finding method** to numerically solve the target objective function $g(\lambda^*) = CVA_{\text{No IM}}(\lambda^*, \rho) - CVA^* = 0$, isolating recalibrated hazard rates across varying correlation spectrums ($\rho \in [0, 1]$).
+* **Parameter Calibration:** Applied **Brent’s root-finding method** to numerically solve the target objective function $g(\lambda) = CVA(\lambda, \rho) - CVA^* = 0$, isolating recalibrated hazard rates across varying correlation spectrums ($\rho \in [0, 1]$).
 * **Initial Margin (IM) Dynamics:** Evaluated 99% 10-day VaR IM rules (UMR), demonstrating that while IM suppresses baseline Expected Exposure between cash flow dates by over two orders of magnitude, it fails to mitigate trade-flow payment spikes, which ultimately dominate residual CVA.
 
 ---
