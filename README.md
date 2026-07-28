@@ -28,7 +28,7 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 
 ## Repository Structure
 * [📄 `Deconstructing_Wrong-Way_Risk_in_the_Presence_of_Initial_Margin.pdf`](./Deconstructing_Wrong-Way_Risk_in_the_Presence_of_Initial_Margin.pdf) — MSc thesis paper.
-* [`src/`](./src/) — Python source code for Monte Carlo simulation routines, stochastic models, and CVA amplification calculators.
+* [`src.py`](./src.py) — Python source code for Monte Carlo simulation routines, stochastic models, and CVA amplification calculators.
 
 ---
 
@@ -36,4 +36,4 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 **Dominic Tang**  
 * MSc Financial Mathematics, University College London (UCL)  
 * BSc Mathematics (1st Class Hons), University of Warwick  
-* Email: dominicftang@gmail.com | [LinkedIn](https://www.linkedin.com)
+* Email: dominicftang@gmail.com | [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/dominic-tang44/))
