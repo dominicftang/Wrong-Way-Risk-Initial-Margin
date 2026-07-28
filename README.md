@@ -1,7 +1,7 @@
 # Deconstructing Wrong-Way Risk in the Presence of Initial Margin
 
 [![Degree](https://img.shields.io/badge/MSc-Financial_Mathematics_(UCL)-blue.svg)](https://www.ucl.ac.uk)
-[![Grade](https://img.shields.io/badge/Grade-(Distinction)-green.svg)]()
+[![Grade](https://img.shields.io/badge/Grade-Distinction-green.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)]()
 
 ## Overview
