@@ -27,7 +27,7 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 ---
 
 ## Repository Structure
-* [`Deconstructing Wrong-Way Risk in the Presence of Initial Margin.pdf`](./Deconstructing Wrong-Way Risk in the Presence of Initial Margin.pdf) — Full MSc thesis paper.
+* [[`Deconstructing Wrong-Way Risk in the Presence of Initial Margin.pdf`](./Deconstructing Wrong-Way Risk in the Presence of Initial Margin.pdf)](https://github.com/dominicftang/dissertation_code/blob/372d621e075963942a3e07f0a60d9ffbf6f1805b/Deconstructing%20Wrong-Way%20Risk%20in%20the%20Presence%20of%20Initial%20Margin.pdf) — Full MSc thesis paper.
 * [`src/`](./src/) — Python source code for Monte Carlo simulation routines, stochastic models, and CVA amplification calculators.
 
 ---
