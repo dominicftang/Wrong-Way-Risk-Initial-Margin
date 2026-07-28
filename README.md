@@ -27,7 +27,7 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 ---
 
 ## Repository Structure
-* [📄 `Dissertation_Dominic_Tang.pdf`](./Dissertation_Dominic_Tang.pdf) — Full MSc thesis paper.
+* [📄 `Deconstructing_Wrong-Way_Risk_in_the_Presence_of_Initial_Margin.pdf`](./Deconstructing_Wrong-Way_Risk_in_the_Presence_of_Initial_Margin.pdf) — MSc thesis paper.
 * [`src/`](./src/) — Python source code for Monte Carlo simulation routines, stochastic models, and CVA amplification calculators.
 
 ---
