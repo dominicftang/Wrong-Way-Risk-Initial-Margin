@@ -35,5 +35,5 @@ The project investigates counterparty credit exposure under the BCBS-IOSCO uncle
 ## Author
 **Dominic Tang**  
 * MSc Financial Mathematics, University College London (UCL)  
-* BSc Mathematics (1st Class Hons), University of Warwick  
-* Email: dominicftang@gmail.com | [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/dominic-tang44/))
+* BSc Mathematics, University of Warwick  
+* Email: dominicftang@gmail.com | [LinkedIn](https://www.linkedin.com/in/dominic-tang44/)
